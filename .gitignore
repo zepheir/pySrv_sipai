@@ -6,7 +6,7 @@ __pycache__/
 *.so
 
 # SVN
-.svn
+srv/.svn/
 
 # sublime project files
 *.sublime-workspace
