@@ -8,6 +8,10 @@ __pycache__/
 # SVN
 .svn
 
+# sublime project files
+*.sublime-workspace
+*.sublime-project
+
 # Distribution / packaging
 .Python
 env/
